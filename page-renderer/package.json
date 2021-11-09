@@ -1,0 +1,16 @@
+{
+  "name": "page-renderer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eduardo Koller <eduardo@bossabox.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-serverless-koa": "^1.0.2",
+    "chrome-aws-lambda": "^10.1.0",
+    "koa": "^2.13.3",
+    "puppeteer-core": "^10.4.0"
+  },
+  "devDependencies": {
+    "serverless": "^2.63.0"
+  }
+}
